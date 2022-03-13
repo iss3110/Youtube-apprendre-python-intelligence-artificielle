@@ -1,4 +1,4 @@
-# Série Youtube - Apprendre à coder en Python pour l'Intelligence Artificielle
+# Apprendre à coder en Python pour l'Intelligence Artificielle
 
 Ce repo contient les codes développés dans le cadre de ma série de vidéo sur Youtube pour apprendre à coder en python en utilisant Tensorflow afin de réaliser des tâches de Deep Learning, disponible ici : https://www.youtube.com/defendintelligence-tech 
 
